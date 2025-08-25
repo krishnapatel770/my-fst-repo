@@ -1,6 +1,6 @@
 # My First Repo
 
-> एक संक्षिप्त विवरण (एक लाइन में)।
+my name krishna
 
 ## Features
 - Feature 1
