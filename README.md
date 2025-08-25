@@ -3,8 +3,7 @@
 my name krishna
 
 ## Features
-- Feature 1
-- Feature 2
+my new features
 
 ## Installation
 ```bash
